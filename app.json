@@ -12,19 +12,19 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "8534912001:AAEDxgJNPjtPUKRvtN3ENk2OtUeDw2cH4Ws"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "6497757690"
+      "value": "6828129421"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "29055333"
     },
     "MONGO_URI": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://anjireddyb98:3qiaVJINXarqFNKp@cluster0.kohnpcd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "SESSION_NAME":{
       "description": "Enter your DATABASE_NAME ",
@@ -32,7 +32,7 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "a6d154242eaef80a163bf5d0a7763882"
     },
     "EVERYONE_CHATS":{
       "description": " Chat identifier of the user who can't touch bot code.",
@@ -56,12 +56,12 @@
     },
     "SUDO_USERS": {
       "description": "Chat identifier of the sudo user.",
-      "value": "",
-      "required": false
+      "value": "6828129421",
+      "required": true
     },
     "LOG_CHANNEL": {
       "description": "for bot logs (user and group id will also work!",
-      "value": "",
+      "value": "-1002526508320",
       "required": true
     }
   },

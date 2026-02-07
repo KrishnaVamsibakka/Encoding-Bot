@@ -12,7 +12,7 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "8534912001:AAEDxgJNPjtPUKRvtN3ENk2OtUeDw2cH4Ws"
+      "value": "8569819815:AAFCGZh28-NcTOV1p2rbTWrtiwP7mUV2Kjw"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
